@@ -1,4 +1,7 @@
-from langchain_openai import ChatOpenAI  ##open ai apikey needs subscription there are some open source llm also we will do it in next project using ollama
+'''
+open ai api key needs subscription, there are some open source llm, chatbot-gemma.py file in this repository,that uses Gemma opensource llm model and doesn't charges any amount
+'''
+from langchain_openai import ChatOpenAI
 from langchain_core.prompts import  ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 import streamlit as st
