@@ -1,5 +1,5 @@
 '''
-open ai api key needs subscription, there are some open source llm, chatbot-gemma.py file in this repository,that uses Gemma opensource llm model and doesn't charges any amount
+To use chatgpt turbo we needs subscription, there are some open source llm, chatbot-gemma.py file in this repository,that uses Gemma opensource llm model and doesn't charges any amount
 '''
 from langchain_openai import ChatOpenAI
 from langchain_core.prompts import  ChatPromptTemplate
