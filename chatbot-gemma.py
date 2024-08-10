@@ -1,4 +1,4 @@
-from langchain_openai import ChatOpenAI  ##open ai apikey needs subscription there are some open source llm also we will do it in next project using ollama
+from langchain_openai import ChatOpenAI 
 from langchain_core.prompts import  ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from langchain_community.llms import Ollama
