@@ -1,0 +1,7 @@
+langchain_openai
+langchain_core.prompts
+langchain_core.output_parsers
+langchain_community
+os
+streamlit 
+dotenv 
