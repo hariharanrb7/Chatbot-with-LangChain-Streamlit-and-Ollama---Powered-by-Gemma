@@ -41,5 +41,11 @@ Welcome to my **Chatbot Project**, a cutting-edge AI-powered assistant built usi
 
 4. **Run the Streamlit app**:
    ```bash
-   streamlit run app.py
+   streamlit run chatbot-gemma.py
    ```
+
+   ## Screenshots
+   ![l](https://github.com/user-attachments/assets/f786765f-e2ea-4696-a7c0-58d97d5d27a7)
+   ![langchain-gemma-chatbot](https://github.com/user-attachments/assets/08d28fd0-212a-4790-ad82-8824243f40c3)
+
+
