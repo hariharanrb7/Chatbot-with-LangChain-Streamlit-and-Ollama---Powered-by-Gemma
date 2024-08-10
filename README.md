@@ -43,7 +43,3 @@ Welcome to my **Chatbot Project**, a cutting-edge AI-powered assistant built usi
    ```bash
    streamlit run app.py
    ```
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
